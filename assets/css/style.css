@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+
+.inline-block{
+	display: inline-block !important;
+}
+
+.content-wrapper{
+	padding-left: 30px;
+	padding-top: 30px;
+}
+
+.txt-red{
+	color: red;
+}
+
+.txt-grey{
+	color: lightgrey;
+}
